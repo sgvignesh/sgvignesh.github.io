@@ -12,3 +12,11 @@
   + Reports based on below
   	+ year
   	+ class
+    
+# Technologies used (All are Open Source)
+  + PHP
+  + MySql
+  + HTML
+  + CSS
+  + jQuery
+  + composer packages
