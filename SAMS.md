@@ -13,7 +13,7 @@
   	+ year
   	+ class
     
-# Technologies used (All are Open Source)
+### Technologies used (All are Open Source)
   + PHP
   + MySql
   + HTML
